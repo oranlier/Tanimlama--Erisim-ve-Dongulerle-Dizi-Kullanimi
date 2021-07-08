@@ -1,0 +1,16 @@
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\bin\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.exe
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\bin\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.deps.json
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\bin\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.runtimeconfig.json
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\bin\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.runtimeconfig.dev.json
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\bin\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.dll
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\bin\Debug\net5.0\ref\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.dll
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\bin\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.pdb
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\obj\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.csproj.AssemblyReference.cache
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\obj\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\obj\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.AssemblyInfoInputs.cache
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\obj\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.AssemblyInfo.cs
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\obj\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\obj\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.dll
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\obj\Debug\net5.0\ref\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.dll
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\obj\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.pdb
+C:\Users\brk\Documents\patika\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi\obj\Debug\net5.0\Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.genruntimeconfig.cache

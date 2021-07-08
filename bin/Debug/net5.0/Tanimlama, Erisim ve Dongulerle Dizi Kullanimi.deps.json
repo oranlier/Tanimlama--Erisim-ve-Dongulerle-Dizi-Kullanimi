@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tanimlama, Erisim ve Dongulerle Dizi Kullanimi/1.0.0": {
+        "runtime": {
+          "Tanimlama, Erisim ve Dongulerle Dizi Kullanimi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tanimlama, Erisim ve Dongulerle Dizi Kullanimi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
